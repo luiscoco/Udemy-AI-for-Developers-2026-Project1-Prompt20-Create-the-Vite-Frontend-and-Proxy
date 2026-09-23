@@ -1,4 +1,4 @@
-# Prompt 20 — Create the Vite Frontend and Proxy
+# Create the Vite Frontend and Proxy
 
 This README explains, step by step, what was done to satisfy the prompt:
 
